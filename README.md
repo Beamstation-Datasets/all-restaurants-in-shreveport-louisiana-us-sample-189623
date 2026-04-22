@@ -1,6 +1,6 @@
 # All Restaurants in Shreveport, Louisiana, US
 
-> Free BeamStation sample export with 71 rows and masked direct-contact fields.
+> Free BeamStation sample export with 59 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `189623` |
 | Location | Shreveport |
 | Category | Restaurants |
-| Full dataset size | 715 records |
-| Free sample size | 71 records (9.93%) |
-| Last export | 2026-04-14T17:46:46.960352+00:00 |
+| Full dataset size | 591 records |
+| Free sample size | 59 records (9.98%) |
+| Last export | 2026-04-21T19:32:20.763507+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-shreveport-louisiana-us-sample-189623/releases/download/sample-latest/beamstation_189623_restaurants-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
