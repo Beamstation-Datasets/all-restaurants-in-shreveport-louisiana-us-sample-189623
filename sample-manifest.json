@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c1888b2e-3723-421a-a0cc-d44c6b2fae89",
+  "export_job_id": "3cb8cab9-7e0b-4eba-a05a-c21143fb8fb7",
   "id_short": 189623,
-  "published_at": "2026-04-29T07:23:51Z",
+  "published_at": "2026-05-07T19:18:04Z",
   "repo_name": "all-restaurants-in-shreveport-louisiana-us-sample-189623",
   "sample_asset_name": "beamstation_189623_restaurants-us-la_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/189623/beamstation_189623_restaurants-us-la_SAMPLE_DIST.csv",
-  "sample_records": 72,
-  "sample_sha256": "0badd974f0bef071c69050d1fdcf49a644184bc60233e7fbf7bb1bc7d08f9c31",
-  "sample_size_bytes": 238557,
-  "total_records": 725
+  "sample_records": 75,
+  "sample_sha256": "f839d341e0f65b80d93267fd26eb05fe3be35e3fd2dd5c8012165712f07b918c",
+  "sample_size_bytes": 256793,
+  "total_records": 752
 }
